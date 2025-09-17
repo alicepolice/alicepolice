@@ -2,8 +2,7 @@
 
 我专注于  **深度学习** 、**游戏引擎** 、以及  **三维重建方向** 的研究
 
-* 微信 `xiaoneng1024`
-* 🎵 [网易云音乐](https://y.music.163.com/m/user?id=2061101920)、🎬 [豆瓣](https://www.douban.com/people/234493346)
+* 我的微信 `xiaoneng1024`、🎵 [网易云音乐](https://y.music.163.com/m/user?id=2061101920)、🎬 [豆瓣](https://www.douban.com/people/234493346)
 
 ```
 bash
