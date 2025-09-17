@@ -22,31 +22,10 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Packages: 1037 (dpkg)
 +sssshhhyNMMNyssssssssssssyNMMMysssssss+   Shell: bash 5.2.21 
 .ssssssssdMMMNhsssssssssshNMMMdssssssss.   Resolution: 1280x1024 
  /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    Terminal: node 
-  +sssssssssdmydMMMMMMMMddddyssssssss+     CPU: AMD EPYC 7B13 (64) @ 2.250GHz 
+  +sssssssssdmydMMMMMMMMddddyssssssss+     CPU: AMD EPYC 7B13 (64) @ 2.250GHz
    /ssssssssssshdmNNNNmyNMMMMhssssss/      GPU: NVIDIA GeForce RTX 4090 48G
     .ossssssssssssssssssdMMMNysssso.       GPU: NVIDIA GeForce RTX 4090 48G
       -+sssssssssssssssssyyyssss+-         Memory: 10551MiB / 128596MiB 
         `:+ssssssssssssssssss+:`
-            .-/+oossssoo+/-.  
------------------------------------------------------------------------------------------------------
-            .-/+oossssoo+/-.               xiaoneng@xiaoneng-B660I-AORUS-PRO-DD 
-        `:+ssssssssssssssssss+:`           ------------------------------------ 
-      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 24.04.3 LTS x86_64 
-    .ossssssssssssssssssdMMMNysssso.       Host: B660I AORUS PRO DDR4 -CF 
-   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 6.14.0-29-generic 
-  +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 1 day, 14 hours, 20 mins 
- /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 3497 (dpkg), 8 (flatpak),  
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: bash 5.2.21 
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+   Resolution: 2560x1440, 2560x1440, 10 
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   DE: GNOME 46.0 
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Mutter 
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+   WM Theme: Adwaita 
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Theme: Yaru [GTK2/3] 
- /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    Icons: Yaru [GTK2/3] 
-  +sssssssssdmydMMMMMMMMddddyssssssss+     Terminal: gnome-terminal 
-   /ssssssssssshdmNNNNmyNMMMMhssssss/      CPU: Intel i7-14700KF (20) @ 5.500GH 
-    .ossssssssssssssssssdMMMNysssso.       GPU: NVIDIA GeForce RTX 4080 SUPER 
-      -+sssssssssssssssssyyyssss+-         Memory: 18318MiB / 31926MiB 
-        `:+ssssssssssssssssss+:`
-            .-/+oossssoo+/-.  
+            .-/+oossssoo+/-.         
 ```
