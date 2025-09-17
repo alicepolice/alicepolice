@@ -2,9 +2,8 @@
 
 我专注于  **深度学习** 、**游戏引擎** 、以及  **三维重建方向** 的研究
 
-* 微信：`xiaoneng1024`
-* 🎵 [网易云音乐](https://y.music.163.com/m/user?id=2061101920)
-* 🎬 [豆瓣](https://www.douban.com/people/234493346)
+* 微信 `xiaoneng1024`
+* 🎵 [网易云音乐](https://y.music.163.com/m/user?id=2061101920)、🎬 [豆瓣](https://www.douban.com/people/234493346)
 
 ```
 bash
@@ -22,10 +21,10 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Packages: 1037 (dpkg)
 +sssshhhyNMMNyssssssssssssyNMMMysssssss+   Shell: bash 5.2.21 
 .ssssssssdMMMNhsssssssssshNMMMdssssssss.   Resolution: 1280x1024 
  /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    Terminal: node 
-  +sssssssssdmydMMMMMMMMddddyssssssss+     CPU: AMD EPYC 7B13 (64) @ 2.250GHz
+  +sssssssssdmydMMMMMMMMddddyssssssss+     CPU: AMD EPYC 7B13 (64) @ 2.250GH
    /ssssssssssshdmNNNNmyNMMMMhssssss/      GPU: NVIDIA GeForce RTX 4090 48G
     .ossssssssssssssssssdMMMNysssso.       GPU: NVIDIA GeForce RTX 4090 48G
       -+sssssssssssssssssyyyssss+-         Memory: 10551MiB / 128596MiB 
         `:+ssssssssssssssssss+:`
-            .-/+oossssoo+/-.         
+            .-/+oossssoo+/-.      
 ```
