@@ -16,7 +16,7 @@
 
 
 
-### ⭐ Github Statsuages
+### ⭐ Github Stats
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 0; flex-wrap: nowrap; width: 100%; font-size: 0;">
   <a href="https://github.com/ZSTU-Graphics" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
