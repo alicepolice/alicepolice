@@ -9,9 +9,12 @@
 
 <p align="center" style="margin-bottom: 0px;">
   <a href="https://github.com/ZSTU-Graphics" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/logo.png" alt="logo" width="256" />
+    <img src="./assets/logo.png" alt="logo" width="256" style="filter: blur(0.25px);" />
   </a>
 </p>
+
+
+
 
 
 
