@@ -9,9 +9,10 @@
 
 <p align="center" style="margin-bottom: 0px;">
   <a href="https://github.com/ZSTU-Graphics" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/logo.jpg" alt="logo" width="256" />
+    <img src="./assets/logo.png" alt="logo" width="256" />
   </a>
 </p>
+
 
 
 
