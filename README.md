@@ -22,11 +22,13 @@
 
 ### ⭐ Github Stats
 
-<a href="https://github.com/ZSTU-Graphics" target="_blank" rel="noopener noreferrer">
+<!-- <a href="https://github.com/ZSTU-Graphics" target="_blank" rel="noopener noreferrer">
   <img align="center"
        src="https://github-readme-activity-graph.vercel.app/graph?username=alicepolice&bg_color=FFFFFF&border_color=E0E0E0&color=333333&line=E018A4&point=FF6EC7&area_color=FDE6F4&custom_title=小能喵喵喵%27s%20Contribution%20Graph" />
-</a>
+</a> -->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ### 💻 Personal Experimental Workstation
