@@ -53,14 +53,14 @@
 
 
 
-### 🧠 Deep Learning with ⚡ PyTorch
+<!-- ### 🧠 Deep Learning with ⚡ PyTorch
 
 - MLP, CNN, UNet, Transformer, ViT
 - Notable models: CLIP, SAM, DINO, Stable Diffusion, and other SOTA architectures
 
 ### 🕸️ 3D Reconstruction with 🌐 Gaussian Splatting
 - 3D Segmentation
-- Sparse View Reconstruction
+- Sparse View Reconstruction -->
 
 ###  📡 Contact & Links
 
