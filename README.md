@@ -20,7 +20,7 @@
 
 
 
-### ⭐ Github Stats
+<!-- ### ⭐ Github Stats -->
 
 <!-- <a href="https://github.com/ZSTU-Graphics" target="_blank" rel="noopener noreferrer">
   <img align="center"
@@ -28,37 +28,6 @@
 </a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%205%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   2 hrs 2 mins        ███████████████████░░░░░░   74.76 % 
-Bash                     31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-
-🔥 Editors: 
-Unknown Editor           2 hrs 21 mins       ██████████████████████░░░   86.22 % 
-VS Code                  22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-
-🐱‍💻 Projects: 
-DEIM                     1 hr 3 mins         ██████████░░░░░░░░░░░░░░░   38.60 % 
-Unknown Project          50 mins             ████████░░░░░░░░░░░░░░░░░   30.50 % 
-Scaffold-GS-Mod          20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-GaussianWild             15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-NexusSplats              14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-
-💻 Operating System: 
-Linux                    2 hrs 44 mins       █████████████████████████   100.00 % 
-```
-
-
 <!--END_SECTION:waka-->
 
 
