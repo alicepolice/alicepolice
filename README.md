@@ -28,6 +28,87 @@
 </a> -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-394%20hrs%2053%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 244.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 31 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 27 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+🌆 Daytime                129 commits         █████████░░░░░░░░░░░░░░░░   34.77 % 
+🌃 Evening                131 commits         █████████░░░░░░░░░░░░░░░░   35.31 % 
+🌙 Night                  65 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Tuesday                  80 commits          █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+Wednesday                66 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Thursday                 69 commits          █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Friday                   66 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Saturday                 18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Sunday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   2 hrs 2 mins        ███████████████████░░░░░░   74.76 % 
+Bash                     31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+
+🔥 Editors: 
+Unknown Editor           2 hrs 21 mins       ██████████████████████░░░   86.22 % 
+VS Code                  22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+
+🐱‍💻 Projects: 
+DEIM                     1 hr 3 mins         ██████████░░░░░░░░░░░░░░░   38.60 % 
+Unknown Project          50 mins             ████████░░░░░░░░░░░░░░░░░   30.50 % 
+Scaffold-GS-Mod          20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+GaussianWild             15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+NexusSplats              14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+
+💻 Operating System: 
+Linux                    2 hrs 44 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   11 repos            ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+C++                      8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/alicepolice/alicepolice/main/assets/bar_graph.png)
+
+
+ Last Updated on 30/03/2026 09:01:49 UTC
 <!--END_SECTION:waka-->
 
 
