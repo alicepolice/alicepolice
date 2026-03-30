@@ -34,24 +34,29 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 2 mins        ███████████████████░░░░░░   74.76 % 
-Bash                     31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Python                   5 hrs 48 mins       ███████████░░░░░░░░░░░░░░   44.43 % 
+Other                    3 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   26.28 % 
+YAML                     2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Bash                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 
 🔥 Editors: 
-Unknown Editor           2 hrs 21 mins       ██████████████████████░░░   86.22 % 
-VS Code                  22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+VS Code                  7 hrs 25 mins       ██████████████░░░░░░░░░░░   56.83 % 
+Edge                     3 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   27.52 % 
+Unknown Editor           1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Obsidian                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+NetEaseCloudMusic        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🐱‍💻 Projects: 
-DEIM                     1 hr 3 mins         ██████████░░░░░░░░░░░░░░░   38.60 % 
-Unknown Project          50 mins             ████████░░░░░░░░░░░░░░░░░   30.50 % 
-Scaffold-GS-Mod          20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-GaussianWild             15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-NexusSplats              14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+DEIM                     5 hrs 49 mins       ███████████░░░░░░░░░░░░░░   44.61 % 
+street_gaussians         2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+data                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Marigold                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Unknown Project          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 
 💻 Operating System: 
-Linux                    2 hrs 44 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 45 mins       █████████████████░░░░░░░░   67.11 % 
+Windows                  4 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   32.89 % 
 ```
 
 
