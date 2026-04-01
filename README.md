@@ -34,29 +34,29 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    6 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   34.62 % 
-Python                   5 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.78 % 
-YAML                     3 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-Bash                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Markdown                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Other                    11 hrs 53 mins      █████████░░░░░░░░░░░░░░░░   37.74 % 
+YAML                     7 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+Python                   6 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Bash                     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Markdown                 1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 10 mins      █████████████░░░░░░░░░░░░   52.71 % 
-Edge                     7 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   39.13 % 
-Unknown Editor           1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-Obsidian                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-NetEaseCloudMusic        9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+VS Code                  17 hrs 27 mins      ██████████████░░░░░░░░░░░   55.42 % 
+Edge                     12 hrs 49 mins      ██████████░░░░░░░░░░░░░░░   40.74 % 
+NetEaseCloudMusic        33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Obsidian                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Notepad++:afree(GPL)sourc16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🐱‍💻 Projects: 
-DEIM                     5 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   30.25 % 
-street_gaussians         4 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-Float-DEIM               3 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-data                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-Marigold                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+DEIM                     7 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+street_gaussians         5 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Float-DEIM               4 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+just-wanna-graduate      1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+data                     1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
 
 💻 Operating System: 
-Linux                    10 hrs 41 mins      ██████████████░░░░░░░░░░░   55.39 % 
-Windows                  8 hrs 36 mins       ███████████░░░░░░░░░░░░░░   44.61 % 
+Linux                    15 hrs 59 mins      █████████████░░░░░░░░░░░░   50.77 % 
+Windows                  15 hrs 30 mins      ████████████░░░░░░░░░░░░░   49.23 % 
 ```
 
 
