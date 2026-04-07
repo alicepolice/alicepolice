@@ -33,29 +33,29 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    33 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   41.68 % 
-YAML                     16 hrs 33 mins      █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-Python                   16 hrs 27 mins      █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-Text                     4 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Markdown                 4 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Other                    35 hrs 28 mins      ███████████░░░░░░░░░░░░░░   43.35 % 
+YAML                     17 hrs 33 mins      █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+Python                   13 hrs 43 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Markdown                 5 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Text                     4 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 
 🔥 Editors: 
-VS Code                  43 hrs 34 mins      ██████████████░░░░░░░░░░░   54.61 % 
-Edge                     32 hrs 33 mins      ██████████░░░░░░░░░░░░░░░   40.79 % 
-NetEaseCloudMusic        2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-draw.io                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-Obsidian                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+VS Code                  44 hrs 28 mins      ██████████████░░░░░░░░░░░   54.33 % 
+Edge                     33 hrs 33 mins      ██████████░░░░░░░░░░░░░░░   41.00 % 
+NetEaseCloudMusic        2 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Notepad++:afree(GPL)sourc29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+draw.io                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🐱‍💻 Projects: 
-DEIM-MOD-v2              34 hrs 44 mins      ███████████░░░░░░░░░░░░░░   43.53 % 
-DEIM                     7 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-street_gaussians         6 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-Float-DEIM               4 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-exp                      3 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+DEIM-MOD-v2              44 hrs 9 mins       █████████████░░░░░░░░░░░░   53.95 % 
+Float-DEIM               4 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+exp                      4 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+street_gaussians         4 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Unknown Project          3 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 
 💻 Operating System: 
-Linux                    41 hrs 47 mins      █████████████░░░░░░░░░░░░   52.37 % 
-Windows                  38 hrs              ████████████░░░░░░░░░░░░░   47.63 % 
+Linux                    43 hrs 1 min        █████████████░░░░░░░░░░░░   52.56 % 
+Windows                  38 hrs 49 mins      ████████████░░░░░░░░░░░░░   47.44 % 
 ```
 
 
