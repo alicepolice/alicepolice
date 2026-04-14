@@ -33,29 +33,29 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    29 hrs 7 mins       █████████░░░░░░░░░░░░░░░░   37.26 % 
-Markdown                 16 hrs 10 mins      █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-YAML                     14 hrs 29 mins      █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-Python                   12 hrs 28 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-Bash                     2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Other                    31 hrs 10 mins      ██████████░░░░░░░░░░░░░░░   40.14 % 
+Markdown                 15 hrs 39 mins      █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+YAML                     12 hrs 47 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Python                   11 hrs 57 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+Bash                     2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 🔥 Editors: 
-VS Code                  52 hrs 15 mins      █████████████████░░░░░░░░   66.87 % 
-Edge                     19 hrs 18 mins      ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
-Notepad++:afree(GPL)sourc3 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-NetEaseCloudMusic        2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-draw.io                  27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+VS Code                  48 hrs 29 mins      ████████████████░░░░░░░░░   62.44 % 
+Edge                     22 hrs 23 mins      ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+Notepad++:afree(GPL)sourc2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+NetEaseCloudMusic        2 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Unknown Editor           39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🐱‍💻 Projects: 
-DEIM-MOD-v2              46 hrs 47 mins      ███████████████░░░░░░░░░░   59.88 % 
-just-wanna-graduate      11 hrs 35 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Unknown Project          6 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-data                     5 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-exp                      1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+DEIM-MOD-v2              45 hrs 5 mins       ███████████████░░░░░░░░░░   58.06 % 
+just-wanna-graduate      11 hrs 34 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+data                     6 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Unknown Project          6 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+DEIM-DEIM-main           1 hr 16 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 💻 Operating System: 
-Linux                    52 hrs 4 mins       █████████████████░░░░░░░░   66.65 % 
-Windows                  26 hrs 3 mins       ████████░░░░░░░░░░░░░░░░░   33.35 % 
+Linux                    48 hrs 46 mins      ████████████████░░░░░░░░░   62.79 % 
+Windows                  28 hrs 53 mins      █████████░░░░░░░░░░░░░░░░   37.21 % 
 ```
 
 
