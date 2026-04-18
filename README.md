@@ -27,37 +27,6 @@
 </a> -->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    44 hrs 3 mins       ███████████████░░░░░░░░░░   58.59 % 
-YAML                     9 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Markdown                 8 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Python                   7 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Bash                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-
-🔥 Editors: 
-Edge                     40 hrs 45 mins      ██████████████░░░░░░░░░░░   54.20 % 
-VS Code                  28 hrs 25 mins      █████████░░░░░░░░░░░░░░░░   37.81 % 
-NetEaseCloudMusic        2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-Notepad++:afree(GPL)sourc1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Unknown Editor           1 hr 19 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-
-🐱‍💻 Projects: 
-DEIM-MOD-v2              43 hrs 24 mins      ██████████████░░░░░░░░░░░   57.72 % 
-SortWaste                7 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-data                     5 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Unknown Project          4 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-exp                      3 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-
-💻 Operating System: 
-Windows                  45 hrs 49 mins      ███████████████░░░░░░░░░░   60.93 % 
-Linux                    29 hrs 22 mins      ██████████░░░░░░░░░░░░░░░   39.07 % 
-```
-
 
 <!--END_SECTION:waka-->
 
