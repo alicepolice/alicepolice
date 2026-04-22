@@ -33,29 +33,29 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    55 hrs 13 mins      ██████████████████░░░░░░░   70.74 % 
-YAML                     10 hrs 33 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Python                   6 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-Markdown                 2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Bash                     1 hr 27 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Other                    55 hrs 2 mins       ██████████████████░░░░░░░   71.35 % 
+YAML                     10 hrs 16 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Python                   6 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Markdown                 2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Bash                     1 hr 18 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🔥 Editors: 
-Edge                     54 hrs 41 mins      ██████████████████░░░░░░░   70.05 % 
-VS Code                  20 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   26.58 % 
-NetEaseCloudMusic        1 hr 21 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Unknown Editor           40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-Notepad++:afree(GPL)sourc33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Edge                     53 hrs 46 mins      █████████████████░░░░░░░░   69.72 % 
+VS Code                  21 hrs 10 mins      ███████░░░░░░░░░░░░░░░░░░   27.45 % 
+NetEaseCloudMusic        1 hr 23 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Notepad++:afree(GPL)sourc38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Unknown Editor           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🐱‍💻 Projects: 
-DEIM-MOD-v2              39 hrs 54 mins      █████████████░░░░░░░░░░░░   51.12 % 
-SortWaste                7 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-exp                      5 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-street_gaussians         4 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-OneDriveShareLinkPushAria3 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+DEIM-MOD-v2              36 hrs 11 mins      ████████████░░░░░░░░░░░░░   46.92 % 
+street_gaussians         8 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+SortWaste                7 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+exp                      4 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+OneDriveShareLinkPushAria3 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 
 💻 Operating System: 
-Windows                  56 hrs 50 mins      ██████████████████░░░░░░░   72.80 % 
-Linux                    21 hrs 14 mins      ███████░░░░░░░░░░░░░░░░░░   27.20 % 
+Windows                  56 hrs 13 mins      ██████████████████░░░░░░░   72.89 % 
+Linux                    20 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   27.11 % 
 ```
 
 
