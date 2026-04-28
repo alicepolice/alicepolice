@@ -33,29 +33,29 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    50 hrs 15 mins      ████████████████████░░░░░   79.63 % 
-Python                   4 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-YAML                     2 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-JSON                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Text                     1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Other                    47 hrs 20 mins      █████████████████████░░░░   82.15 % 
+Python                   4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+JSON                     1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+YAML                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Text                     53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 🔥 Editors: 
-Edge                     44 hrs 53 mins      ██████████████████░░░░░░░   71.13 % 
-VS Code                  10 hrs 7 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-Unknown Editor           3 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-NetEaseCloudMusic        2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Notepad++:afree(GPL)sourc1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Edge                     42 hrs 9 mins       ██████████████████░░░░░░░   73.17 % 
+VS Code                  7 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Unknown Editor           3 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+NetEaseCloudMusic        2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Notepad++:afree(GPL)sourc2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 
 🐱‍💻 Projects: 
-DEIM-MOD-v2              30 hrs 11 mins      ████████████░░░░░░░░░░░░░   47.83 % 
-street_gaussians         8 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Unknown Project          4 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-ESCVehicle               3 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-vscode-monitor-max       2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+DEIM-MOD-v2              33 hrs 34 mins      ███████████████░░░░░░░░░░   58.27 % 
+Unknown Project          4 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+street_gaussians         3 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+ESCVehicle               3 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+vscode-monitor-max       2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 
 💻 Operating System: 
-Windows                  51 hrs 36 mins      ████████████████████░░░░░   81.76 % 
-Linux                    11 hrs 30 mins      █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Windows                  48 hrs 49 mins      █████████████████████░░░░   84.73 % 
+Linux                    8 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
 ```
 
 
