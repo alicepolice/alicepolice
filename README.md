@@ -33,29 +33,29 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    47 hrs 20 mins      █████████████████████░░░░   82.15 % 
-Python                   4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-JSON                     1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-YAML                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-Text                     53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Other                    48 hrs 45 mins      █████████████████████░░░░   85.62 % 
+Python                   3 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Markdown                 1 hr 7 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+JSON                     1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+TypeScript               52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 🔥 Editors: 
-Edge                     42 hrs 9 mins       ██████████████████░░░░░░░   73.17 % 
-VS Code                  7 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Unknown Editor           3 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-NetEaseCloudMusic        2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Notepad++:afree(GPL)sourc2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Edge                     43 hrs 19 mins      ███████████████████░░░░░░   76.09 % 
+VS Code                  5 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Unknown Editor           3 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+NetEaseCloudMusic        2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Notepad++:afree(GPL)sourc1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 🐱‍💻 Projects: 
-DEIM-MOD-v2              33 hrs 34 mins      ███████████████░░░░░░░░░░   58.27 % 
-Unknown Project          4 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-street_gaussians         3 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-ESCVehicle               3 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-vscode-monitor-max       2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+DEIM-MOD-v2              33 hrs              ██████████████░░░░░░░░░░░   57.97 % 
+Unknown Project          4 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+vscode-monitor-max       2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+MapTR                    2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+thermalright-trcc-linux  1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 
 💻 Operating System: 
-Windows                  48 hrs 49 mins      █████████████████████░░░░   84.73 % 
-Linux                    8 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Windows                  50 hrs 24 mins      ██████████████████████░░░   88.54 % 
+Linux                    6 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
 ```
 
 
