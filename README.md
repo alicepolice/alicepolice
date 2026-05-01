@@ -33,29 +33,29 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    47 hrs 5 mins       ███████████████████████░░   90.80 % 
-Python                   1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Markdown                 58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-YAML                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Other                    50 hrs 38 mins      ████████████████████████░   96.27 % 
+Markdown                 40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+YAML                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Python                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Io                       12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-Edge                     43 hrs 40 mins      █████████████████████░░░░   84.21 % 
-Unknown Editor           2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-VS Code                  2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-NetEaseCloudMusic        1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-Notepad++:afree(GPL)sourc43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Edge                     47 hrs 55 mins      ███████████████████████░░   91.11 % 
+NetEaseCloudMusic        1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Unknown Editor           55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+draw.io                  42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+VS Code                  41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 🐱‍💻 Projects: 
-DEIM-MOD-v2              28 hrs 57 mins      ██████████████░░░░░░░░░░░   55.84 % 
-etcher                   6 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Unknown Project          3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-thermalright-trcc-linux  1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-clash-for-linux-install  1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+DEIM-MOD-v2              25 hrs 42 mins      ████████████░░░░░░░░░░░░░   48.89 % 
+gpu-burn                 7 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+etcher                   6 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+lab-resources            3 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Unknown Project          3 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 
 💻 Operating System: 
-Windows                  47 hrs 22 mins      ███████████████████████░░   91.36 % 
-Linux                    4 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Windows                  51 hrs 22 mins      ████████████████████████░   97.68 % 
+Linux                    1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 ```
 
 
