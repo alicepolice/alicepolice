@@ -33,29 +33,29 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    51 hrs 25 mins      ██████████████████████░░░   87.08 % 
-Markdown                 3 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-Python                   1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-YAML                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-JSON                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Other                    48 hrs 57 mins      ██████████████████████░░░   86.16 % 
+Markdown                 3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Python                   2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+YAML                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+JSON                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🔥 Editors: 
-Edge                     49 hrs 7 mins       █████████████████████░░░░   83.18 % 
-VS Code                  3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Unknown Editor           3 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-NetEaseCloudMusic        2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-draw.io                  42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Edge                     46 hrs 40 mins      █████████████████████░░░░   82.14 % 
+VS Code                  3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Unknown Editor           3 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+NetEaseCloudMusic        2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+draw.io                  42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🐱‍💻 Projects: 
-DEIM-MOD-v2              19 hrs 47 mins      ████████░░░░░░░░░░░░░░░░░   33.51 % 
-gpu-burn                 7 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-etcher                   6 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-lab-resources            4 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-copy-fail-CVE-2026-31431 4 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+DEIM-MOD-v2              16 hrs 29 mins      ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+gpu-burn                 7 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+etcher                   6 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+lab-resources            4 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+copy-fail-CVE-2026-31431 4 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 
 💻 Operating System: 
-Windows                  52 hrs 39 mins      ██████████████████████░░░   89.17 % 
-Linux                    6 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Windows                  50 hrs 6 mins       ██████████████████████░░░   88.19 % 
+Linux                    6 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
 ```
 
 
