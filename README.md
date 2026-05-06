@@ -65,20 +65,25 @@ Linux                    11 hrs 45 mins      █████░░░░░░�
 #### 💻 Personal Experimental Workstation
 
 ```scss
-              \       |       /                 root@4090-2x48g 
-               \      |      /                  ===============
-   -------------\-----+-----/-------------      OS: Ubuntu 24.04.3 LTS x86_64 
-                 \    |    /                    CPU: AMD EPYC 7B13 (64) @ 2.250GH
-                  \   |   /                     GPU 1: NVIDIA GeForce RTX 4090 48G
-                   \  |  /                      GPU 2: NVIDIA GeForce RTX 4090 48G
-                    \ | /                       Memory: 10551MiB / 128596MiB 
-                     \|/
-                     /|\                        xiaoneng@xiaoneng-B660I-AORUS-PRO-DD 
-                    / | \                       ====================================
-                   /  |  \                      OS: Ubuntu 24.04.3 LTS x86_64
-                  /   |   \                     CPU: Intel i7-14700KF (20) @ 5.500GH
-   -------------/---- + ----\-------------      GPU: NVIDIA GeForce RTX 4080 SUPER
-               /      |      \                  Memory: 18551MiB / 31926MiB
+                  \        |        /              root@node1
+                   \       |       /               ==========
+                    \      |      /                OS: Ubuntu 24.04.3 LTS x86_64
+      ---------------\-----+-----/---------------  CPU: AMD Ryzen 9 9950X (32) @ 5.752GHz
+                      \    |    /                  GPU 1: NVIDIA GeForce RTX 5090 32GB SUPRIM
+                       \   |   /                   GPU 2: NVIDIA GeForce RTX 4090 48GB MOD
+                        \  |  /                    Mobo: MSI MEG X870E GODLIKE
+                         \ | /                     Memory: 96GB DDR5 5600MHz
+                          \|/                      Disk: Crucial T710 2TB NVMe
+                          /|\
+                         / | \                     root@node2
+                        /  |  \                    ==========
+                       /   |   \                   OS: Ubuntu 24.04.3 LTS x86_64
+      ---------------/-----+-----\---------------  CPU: AMD Ryzen 9 9950X (32) @ 5.752GHz
+                    /      |      \                GPU 1: NVIDIA GeForce RTX 5090 32GB SUPRIM
+                   /       |       \               GPU 2: NVIDIA GeForce RTX 4090 48GB MOD
+                  /        |        \              Mobo: MSI MEG X870E GODLIKE
+                 /         |         \             Memory: 96GB DDR5 5600MHz
+                /          |          \            Disk: Crucial T710 2TB NVMe
 ```
 
 
