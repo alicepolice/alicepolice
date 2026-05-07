@@ -33,29 +33,29 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    47 hrs 7 mins       ███████████████████░░░░░░   76.48 % 
-Markdown                 4 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-YAML                     4 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-Python                   3 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Bash                     1 hr 7 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Other                    42 hrs 56 mins      ██████████████████░░░░░░░   70.22 % 
+Markdown                 8 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+YAML                     4 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Python                   3 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Bash                     1 hr 7 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 Editors: 
-Edge                     42 hrs 23 mins      █████████████████░░░░░░░░   68.82 % 
-VS Code                  9 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-Unknown Editor           5 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-NetEaseCloudMusic        2 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Edge                     39 hrs 2 mins       ████████████████░░░░░░░░░   63.86 % 
+VS Code                  13 hrs 5 mins       █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+Unknown Editor           5 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+NetEaseCloudMusic        2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 Notepad++:afree(GPL)sourc43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🐱‍💻 Projects: 
-DEIM-MOD-v2              26 hrs 31 mins      ███████████░░░░░░░░░░░░░░   43.07 % 
-gpu-burn                 5 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-copy-fail-CVE-2026-31431 4 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Unknown Project          3 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-lab-resources            3 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+DEIM-MOD-v2              33 hrs 35 mins      ██████████████░░░░░░░░░░░   54.95 % 
+copy-fail-CVE-2026-31431 4 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Unknown Project          3 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+PiliPlus                 2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+SMW-GS                   2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 💻 Operating System: 
-Windows                  46 hrs 25 mins      ███████████████████░░░░░░   75.36 % 
-Linux                    15 hrs 10 mins      ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+Windows                  42 hrs 26 mins      █████████████████░░░░░░░░   69.40 % 
+Linux                    18 hrs 42 mins      ████████░░░░░░░░░░░░░░░░░   30.60 % 
 ```
 
 
