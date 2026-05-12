@@ -33,29 +33,29 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    40 hrs 18 mins      █████████████████░░░░░░░░   67.35 % 
-Markdown                 8 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Python                   4 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-YAML                     3 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Bash                     2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Other                    43 hrs 22 mins      ████████████████░░░░░░░░░   63.19 % 
+Markdown                 11 hrs 12 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Python                   5 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+YAML                     4 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Bash                     2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 🔥 Editors: 
-Edge                     38 hrs 21 mins      ████████████████░░░░░░░░░   64.09 % 
-VS Code                  15 hrs 40 mins      ███████░░░░░░░░░░░░░░░░░░   26.20 % 
-Unknown Editor           3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-NetEaseCloudMusic        1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-Notepad++:afree(GPL)sourc43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Edge                     39 hrs 25 mins      ██████████████░░░░░░░░░░░   57.44 % 
+VS Code                  20 hrs 25 mins      ███████░░░░░░░░░░░░░░░░░░   29.76 % 
+Unknown Editor           6 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+NetEaseCloudMusic        1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Notepad++:afree(GPL)sourc44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🐱‍💻 Projects: 
-DEIM-MOD-v2              29 hrs 3 mins       ████████████░░░░░░░░░░░░░   48.55 % 
-DroneVehicle             11 hrs 25 mins      █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Unknown Project          2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-PiliPlus                 2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-SMW-GS                   2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+DEIM-MOD-v2              36 hrs 25 mins      █████████████░░░░░░░░░░░░   53.07 % 
+DroneVehicle             11 hrs 27 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Unknown Project          3 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+PiliPlus                 2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+SMW-GS                   2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 💻 Operating System: 
-Windows                  40 hrs 41 mins      █████████████████░░░░░░░░   68.00 % 
-Linux                    19 hrs 9 mins       ████████░░░░░░░░░░░░░░░░░   32.00 % 
+Windows                  42 hrs 44 mins      ████████████████░░░░░░░░░   62.27 % 
+Linux                    25 hrs 53 mins      █████████░░░░░░░░░░░░░░░░   37.73 % 
 ```
 
 
