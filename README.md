@@ -27,37 +27,6 @@
 </a> -->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    40 hrs 5 mins       ██████████░░░░░░░░░░░░░░░   39.94 % 
-Python                   19 hrs 14 mins      █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-YAML                     17 hrs 53 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-Markdown                 13 hrs 24 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Bash                     3 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-
-🔥 Editors: 
-VS Code                  60 hrs 57 mins      ███████████████░░░░░░░░░░   60.73 % 
-Edge                     31 hrs 6 mins       ████████░░░░░░░░░░░░░░░░░   31.00 % 
-Claude Code              6 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-NetEaseCloudMusic        1 hr 10 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-Notepad++:afree(GPL)sourc40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-
-🐱‍💻 Projects: 
-DEIM-MOD-v2              54 hrs 31 mins      ██████████████░░░░░░░░░░░   54.33 % 
-25-txd                   11 hrs 29 mins      ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-O2-RT-DETR               9 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-DeSiRe-GS                7 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-xiaoneng                 3 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-
-💻 Operating System: 
-Linux                    67 hrs 24 mins      █████████████████░░░░░░░░   67.16 % 
-Windows                  32 hrs 57 mins      ████████░░░░░░░░░░░░░░░░░   32.84 % 
-```
-
 
 <!--END_SECTION:waka-->
 
