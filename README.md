@@ -33,29 +33,29 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    39 hrs 21 mins      ████████████░░░░░░░░░░░░░   49.17 % 
-YAML                     23 hrs 33 mins      ███████░░░░░░░░░░░░░░░░░░   29.44 % 
-Python                   11 hrs 8 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Markdown                 2 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-JSON                     1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Other                    38 hrs 51 mins      ████████████░░░░░░░░░░░░░   47.81 % 
+YAML                     23 hrs 57 mins      ███████░░░░░░░░░░░░░░░░░░   29.47 % 
+Python                   8 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Markdown                 5 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+TeX                      1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 🔥 Editors: 
-VS Code                  45 hrs 30 mins      ██████████████░░░░░░░░░░░   56.87 % 
-Edge                     28 hrs 55 mins      █████████░░░░░░░░░░░░░░░░   36.15 % 
-Claude Code              2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-NetEaseCloudMusic        1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Notepad++:afree(GPL)sourc1 hr 35 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+VS Code                  44 hrs 26 mins      ██████████████░░░░░░░░░░░   54.67 % 
+Edge                     30 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   37.85 % 
+Claude Code              2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Notepad++:afree(GPL)sourc1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+NetEaseCloudMusic        1 hr 18 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 🐱‍💻 Projects: 
-DEIM-MOD-v2              39 hrs 52 mins      ████████████░░░░░░░░░░░░░   49.82 % 
-25-txd                   12 hrs 34 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-gaussian-splatting       10 hrs 50 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-objectdetection_script   4 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Unknown Project          3 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+DEIM-MOD-v2              47 hrs 34 mins      ███████████████░░░░░░░░░░   58.52 % 
+25-txd                   10 hrs 14 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+gaussian-splatting       5 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+objectdetection_script   4 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Unknown Project          3 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 💻 Operating System: 
-Linux                    47 hrs 24 mins      ███████████████░░░░░░░░░░   59.23 % 
-Windows                  32 hrs 37 mins      ██████████░░░░░░░░░░░░░░░   40.77 % 
+Linux                    46 hrs 47 mins      ██████████████░░░░░░░░░░░   57.57 % 
+Windows                  34 hrs 29 mins      ███████████░░░░░░░░░░░░░░   42.43 % 
 ```
 
 
