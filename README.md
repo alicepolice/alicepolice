@@ -27,6 +27,37 @@
 </a> -->
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    38 hrs 13 mins      █████████████████░░░░░░░░   66.29 % 
+Markdown                 12 hrs 51 mins      ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+YAML                     2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+TeX                      1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Python                   1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+
+🔥 Editors: 
+Edge                     37 hrs 29 mins      ████████████████░░░░░░░░░   65.00 % 
+VS Code                  18 hrs 39 mins      ████████░░░░░░░░░░░░░░░░░   32.36 % 
+NetEaseCloudMusic        52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Notepad++:afree(GPL)sourc21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Claude Code              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+
+🐱‍💻 Projects: 
+DEIM-MOD-v2              23 hrs 53 mins      ██████████░░░░░░░░░░░░░░░   41.42 % 
+DeSiRe-GS                8 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+HLL_happy_Plugins        7 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+exp                      3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+25-txd                   3 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+
+💻 Operating System: 
+Windows                  38 hrs 49 mins      █████████████████░░░░░░░░   67.32 % 
+Linux                    18 hrs 50 mins      ████████░░░░░░░░░░░░░░░░░   32.68 % 
+```
+
 
 <!--END_SECTION:waka-->
 
