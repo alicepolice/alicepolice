@@ -33,29 +33,29 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    36 hrs 57 mins      ██████████████████░░░░░░░   73.42 % 
-Markdown                 8 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-YAML                     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-Python                   1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-Bash                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Other                    36 hrs 40 mins      ████████████████████░░░░░   79.25 % 
+Go                       2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Markdown                 2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+YAML                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Python                   1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 🔥 Editors: 
-Edge                     36 hrs 38 mins      ██████████████████░░░░░░░   72.80 % 
-VS Code                  12 hrs 37 mins      ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
-NetEaseCloudMusic        39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-Notepad++:afree(GPL)sourc14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Edge                     37 hrs 17 mins      ████████████████████░░░░░   80.59 % 
+VS Code                  8 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+NetEaseCloudMusic        22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Claude Code              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Notepad++:afree(GPL)sourc14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🐱‍💻 Projects: 
-DEIM-MOD-v2              12 hrs 35 mins      ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
-HLL_happy_Plugins        9 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-DeSiRe-GS                8 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-exp                      3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-25-txd                   3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+HLL_happy_Plugins        9 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+DeSiRe-GS                7 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+hll-plugin               5 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+DEIM-MOD-v2              4 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+exp                      3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
 
 💻 Operating System: 
-Windows                  37 hrs 39 mins      ███████████████████░░░░░░   74.82 % 
-Linux                    12 hrs 40 mins      ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
+Windows                  40 hrs 23 mins      ██████████████████████░░░   87.29 % 
+Linux                    5 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
 ```
 
 
