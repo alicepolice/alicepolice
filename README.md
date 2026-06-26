@@ -33,29 +33,29 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    38 hrs 38 mins      █████████████████████░░░░   82.79 % 
-Go                       4 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Python                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Bash                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-YAML                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Other                    40 hrs 58 mins      █████████████████████░░░░   85.33 % 
+Go                       4 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Python                   1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Bash                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Vue                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🔥 Editors: 
-Edge                     38 hrs 24 mins      █████████████████████░░░░   82.28 % 
-VS Code                  7 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Claude Code              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-Notepad++:afree(GPL)sourc5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-NetEaseCloudMusic        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Edge                     40 hrs 10 mins      █████████████████████░░░░   83.64 % 
+VS Code                  7 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Claude Code              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+NetEaseCloudMusic        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Notepad++:afree(GPL)sourc0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-HLL_happy_Plugins        9 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
-hll-plugin               8 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
-25-txd                   8 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-idsplat                  6 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-nvidiaProfileInspector   5 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+hll-plugin               10 hrs 50 mins      ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
+HLL_happy_Plugins        9 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+25-txd                   8 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+idsplat                  6 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+nvidiaProfileInspector   5 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
 
 💻 Operating System: 
-Windows                  42 hrs 3 mins       ███████████████████████░░   90.13 % 
-Linux                    4 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Windows                  43 hrs 43 mins      ███████████████████████░░   91.04 % 
+Linux                    4 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
 ```
 
 
