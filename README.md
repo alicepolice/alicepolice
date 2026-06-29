@@ -33,29 +33,29 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    42 hrs 17 mins      █████████████████████░░░░   85.65 % 
-Go                       4 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-Python                   1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-Bash                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-Vue                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Other                    43 hrs 58 mins      █████████████████████░░░░   85.28 % 
+Go                       4 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Python                   1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Bash                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Markdown                 37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🔥 Editors: 
-Edge                     41 hrs 15 mins      █████████████████████░░░░   83.57 % 
-VS Code                  7 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-Claude Code              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-NetEaseCloudMusic        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Edge                     43 hrs 6 mins       █████████████████████░░░░   83.60 % 
+VS Code                  8 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Claude Code              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+NetEaseCloudMusic        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 Notepad++:afree(GPL)sourc0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-hll-plugin               10 hrs 50 mins      █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
-25-txd                   8 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-drivestudio              8 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-idsplat                  6 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-nvidiaProfileInspector   5 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+hll-plugin               10 hrs 50 mins      █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+drivestudio              8 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+25-txd                   7 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+idsplat                  6 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+pearl                    5 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
 
 💻 Operating System: 
-Windows                  44 hrs 48 mins      ███████████████████████░░   90.76 % 
-Linux                    4 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Windows                  46 hrs 39 mins      ███████████████████████░░   90.50 % 
+Linux                    4 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
 ```
 
 
