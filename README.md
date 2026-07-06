@@ -33,28 +33,28 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    66 hrs 48 mins      █████████████████████░░░░   84.90 % 
-Markdown                 5 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-YAML                     4 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-Python                   42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-JSON                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Other                    64 hrs 41 mins      ██████████████████████░░░   86.30 % 
+Markdown                 5 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+YAML                     3 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Python                   42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Edge                     64 hrs 59 mins      █████████████████████░░░░   82.59 % 
-VS Code                  12 hrs 1 min        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Claude Code              1 hr 21 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-draw.io                  18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Edge                     64 hrs 35 mins      ██████████████████████░░░   86.16 % 
+VS Code                  8 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Claude Code              1 hr 21 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+draw.io                  18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🐱‍💻 Projects: 
-DEIM-MOD-v2              39 hrs 6 mins       ████████████░░░░░░░░░░░░░   49.71 % 
-25_wt                    28 hrs 41 mins      █████████░░░░░░░░░░░░░░░░   36.47 % 
-IDM-VTON                 3 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-awesome-ai-research-writi2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-nvidiaProfileInspector   1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+DEIM-MOD-v2              47 hrs 31 mins      ████████████████░░░░░░░░░   63.40 % 
+25_wt                    25 hrs 43 mins      █████████░░░░░░░░░░░░░░░░   34.31 % 
+ContextMenuManager       48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Ext3Fsd                  34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Unknown Project          18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-Windows                  65 hrs 17 mins      █████████████████████░░░░   82.99 % 
-Linux                    13 hrs 23 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Windows                  64 hrs 54 mins      ██████████████████████░░░   86.58 % 
+Linux                    10 hrs 3 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
 ```
 
 
