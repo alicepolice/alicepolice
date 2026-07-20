@@ -33,20 +33,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    42 hrs 11 mins      █████████████████████████   99.13 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Other                    42 hrs 12 mins      █████████████████████████   99.13 % 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
 Edge                     42 hrs 28 mins      █████████████████████████   99.76 % 
 VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🐱‍💻 Projects: 
-DEIM-MOD-v2              23 hrs 22 mins      ██████████████░░░░░░░░░░░   54.92 % 
-SourceIO                 11 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   27.63 % 
-CCRDet                   7 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+DEIM-MOD-v2              23 hrs 22 mins      ██████████████░░░░░░░░░░░   54.91 % 
+SourceIO                 16 hrs 41 mins      ██████████░░░░░░░░░░░░░░░   39.22 % 
+CCRDet                   2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
 nvidiaProfileInspector   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 claude                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
