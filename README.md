@@ -33,24 +33,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    50 hrs              █████████████████████████   99.24 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Other                    41 hrs 39 mins      █████████████████████████   99.69 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-Edge                     50 hrs 21 mins      █████████████████████████   99.93 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Edge                     41 hrs 47 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SourceIO                 36 hrs 34 mins      ██████████████████░░░░░░░   72.59 % 
-pearl                    5 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-DEIM-MOD-v2              5 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-lab-resources            3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-Alice-Miner              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+SourceIO                 31 hrs 7 mins       ███████████████████░░░░░░   74.50 % 
+lab-resources            5 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+pearl                    5 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Alice-Miner              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+pearl-miner-fee0.5       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  50 hrs 21 mins      █████████████████████████   99.93 % 
-Linux                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Windows                  41 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 
