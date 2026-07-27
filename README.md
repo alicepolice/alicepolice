@@ -27,6 +27,8 @@
 </a> -->
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-206%20hrs%2033%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -48,6 +50,12 @@ ETHlargementPill         0 secs              ░░░░░░░░░░░�
 
 💻 Operating System: 
 Windows                  41 hrs 58 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 
