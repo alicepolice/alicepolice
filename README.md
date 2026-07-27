@@ -33,21 +33,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    41 hrs 39 mins      █████████████████████████   99.69 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Other                    41 hrs 51 mins      █████████████████████████   99.72 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-Edge                     41 hrs 47 mins      █████████████████████████   100.00 % 
+Edge                     41 hrs 58 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SourceIO                 31 hrs 7 mins       ███████████████████░░░░░░   74.50 % 
-lab-resources            5 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-pearl                    5 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+SourceIO                 24 hrs 50 mins      ███████████████░░░░░░░░░░   59.19 % 
+lab-resources            11 hrs 49 mins      ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+pearl                    5 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
 Alice-Miner              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-pearl-miner-fee0.5       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+ETHlargementPill         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  41 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  41 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 
