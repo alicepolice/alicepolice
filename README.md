@@ -35,21 +35,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    39 hrs 48 mins      █████████████████████████   99.69 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Other                    34 hrs 7 mins       █████████████████████████   99.91 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Edge                     39 hrs 55 mins      █████████████████████████   100.00 % 
+Edge                     34 hrs 9 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lab-resources            29 hrs 42 mins      ███████████████████░░░░░░   74.42 % 
-pearl                    5 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-SourceIO                 4 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Alice-Miner              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-ETHlargementPill         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+lab-resources            31 hrs              ███████████████████████░░   90.80 % 
+pearl                    3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
 
 💻 Operating System: 
-Windows                  39 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  34 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
