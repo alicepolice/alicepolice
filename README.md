@@ -35,21 +35,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    32 hrs 55 mins      █████████████████████████   99.91 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Other                    29 hrs 6 mins       █████████████████████████   99.90 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-Edge                     32 hrs 57 mins      █████████████████████████   100.00 % 
+Edge                     29 hrs 8 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lab-resources            32 hrs 56 mins      █████████████████████████   99.95 % 
+lab-resources            29 hrs 7 mins       █████████████████████████   99.95 % 
 venus                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-lotus                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+lotus                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 go-fee                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 builtin-actors           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  32 hrs 57 mins      █████████████████████████   100.00 % 
+Windows                  29 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
