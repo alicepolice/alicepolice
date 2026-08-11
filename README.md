@@ -27,7 +27,7 @@
 </a> -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-206%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-209%20hrs%2028%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -35,22 +35,51 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    29 hrs 13 mins      █████████████████████████   100.00 % 
+Other                    34 hrs 11 mins      ████████████████████████░   95.05 % 
+Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+TOML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔥 Editors: 
-Edge                     29 hrs 13 mins      █████████████████████████   100.00 % 
+Edge                     33 hrs 2 mins       ███████████████████████░░   91.86 % 
+Codex Vscode             1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Agent                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🐱‍💻 Projects: 
-lab-resources            29 hrs 13 mins      █████████████████████████   100.00 % 
+lab-resources            33 hrs 1 min        ███████████████████████░░   91.80 % 
+DeSiRe-GS                1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+25-txd                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+codex                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+IronNestFCS              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  29 hrs 13 mins      █████████████████████████   100.00 % 
+Windows                  33 hrs 2 mins       ███████████████████████░░   91.86 % 
+Linux                    2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 55 mins (8.14%)
+
+✍️ 1,530 lines written by AI, 11 lines written by hand (99.29% AI-written)
+
+🔤 3,420,250 Input Tokens, 134,833 Output Tokens
+
+💵 $21.51 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 70 AI Prompts
+
+GPT                      1,535 lines         █████████████████████████   100.00 % 
+Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.29% of written lines came from AI
+📚 Verbose Prompter — average 8,885 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.71% of changed lines were hand-edited
 ```
 
 
