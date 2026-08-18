@@ -27,7 +27,7 @@
 </a> -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-245%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-252%20hrs%2034%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -35,51 +35,51 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    65 hrs 19 mins      █████████████████░░░░░░░░   69.77 % 
-Python                   10 hrs 36 mins      ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Markdown                 7 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-JSON                     4 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Bash                     2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Other                    62 hrs 29 mins      █████████████████░░░░░░░░   66.84 % 
+Python                   14 hrs 10 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Markdown                 6 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+JSON                     5 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Bash                     2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🔥 Editors: 
-Edge                     53 hrs 47 mins      ██████████████░░░░░░░░░░░   57.45 % 
-Codex Vscode             19 hrs 47 mins      █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-Agent                    17 hrs 33 mins      █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-VS Code                  2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Edge                     49 hrs 49 mins      █████████████░░░░░░░░░░░░   53.29 % 
+Codex Vscode             21 hrs 41 mins      ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+Agent                    19 hrs 13 mins      █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+VS Code                  2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🐱‍💻 Projects: 
-DeSiRe-GS                36 hrs 33 mins      ██████████░░░░░░░░░░░░░░░   39.05 % 
-25-txd                   27 hrs 8 mins       ███████░░░░░░░░░░░░░░░░░░   28.99 % 
-drivestudio              8 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-lab-resources            7 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+DeSiRe-GS                40 hrs 25 mins      ███████████░░░░░░░░░░░░░░   43.23 % 
+25-txd                   28 hrs 59 mins      ████████░░░░░░░░░░░░░░░░░   31.00 % 
+drivestudio              8 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+hllrcon                  5 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 hll-frontend             3 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 💻 Operating System: 
-Windows                  53 hrs 47 mins      ██████████████░░░░░░░░░░░   57.45 % 
-Linux                    39 hrs 50 mins      ███████████░░░░░░░░░░░░░░   42.55 % 
+Windows                  49 hrs 49 mins      █████████████░░░░░░░░░░░░   53.29 % 
+Linux                    43 hrs 40 mins      ████████████░░░░░░░░░░░░░   46.71 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 hrs 31 mins (42.22%)
+⏱ AI Coding Time: 43 hrs 11 mins (46.19%)
 
-✍️ 32,698 lines written by AI, 19 lines written by hand (99.94% AI-written)
+✍️ 41,655 lines written by AI, 8 lines written by hand (99.98% AI-written)
 
-🔤 40,738,422 Input Tokens, 2,414,405 Output Tokens
+🔤 42,238,097 Input Tokens, 2,935,430 Output Tokens
 
-💵 $276.28 Estimated AI Cost This Week
+💵 $313.78 Estimated AI Cost This Week
 
-🧠 134 AI Sessions, 843 AI Prompts
+🧠 149 AI Sessions, 899 AI Prompts
 
-GPT                      32,765 lines        █████████████████████████   100.00 % 
+GPT                      41,736 lines        █████████████████████████   100.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📚 Verbose Prompter — average 5,861 characters per prompt
+🤖 AI-Driven — 99.98% of written lines came from AI
+📚 Verbose Prompter — average 6,455 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 2.3% of changed lines were hand-edited
+🚀 High AI Trust — 1.79% of changed lines were hand-edited
 ```
 
 
