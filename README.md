@@ -35,51 +35,51 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    47 hrs 2 mins       ██████████████████░░░░░░░   72.62 % 
-Python                   8 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Markdown                 4 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-JSON                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-TOML                     1 hr 4 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Other                    51 hrs 43 mins      ███████████████████░░░░░░   74.69 % 
+Python                   7 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Markdown                 4 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+JSON                     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+CSV                      1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 🔥 Editors: 
-Edge                     35 hrs 11 mins      ██████████████░░░░░░░░░░░   54.34 % 
-Codex Vscode             15 hrs 46 mins      ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
-Agent                    12 hrs 40 mins      █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-VS Code                  1 hr 7 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Edge                     36 hrs              █████████████░░░░░░░░░░░░   52.00 % 
+Codex Vscode             17 hrs 37 mins      ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
+Agent                    14 hrs 9 mins       █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+VS Code                  1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 🐱‍💻 Projects: 
-25-txd                   44 hrs 26 mins      █████████████████░░░░░░░░   68.60 % 
-DeSiRe-GS                13 hrs 22 mins      █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
-FlClash                  2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-hllrcon                  1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-Unknown Project          1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+25-txd                   48 hrs 19 mins      █████████████████░░░░░░░░   69.78 % 
+DeSiRe-GS                15 hrs 16 mins      ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+FlClash                  2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Unknown Project          1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+codex                    42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 💻 Operating System: 
-Windows                  35 hrs 11 mins      ██████████████░░░░░░░░░░░   54.34 % 
-Linux                    29 hrs 34 mins      ███████████░░░░░░░░░░░░░░   45.66 % 
+Windows                  36 hrs              █████████████░░░░░░░░░░░░   52.00 % 
+Linux                    33 hrs 14 mins      ████████████░░░░░░░░░░░░░   48.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 18 mins (45.25%)
+⏱ AI Coding Time: 32 hrs 58 mins (47.61%)
 
-✍️ 10,494 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 10,046 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 17,165,305 Input Tokens, 1,511,813 Output Tokens
+🔤 18,201,880 Input Tokens, 1,580,931 Output Tokens
 
-💵 $108.48 Estimated AI Cost This Week
+💵 $116.41 Estimated AI Cost This Week
 
-🧠 101 AI Sessions, 614 AI Prompts
+🧠 101 AI Sessions, 718 AI Prompts
 
-GPT                      10,512 lines        █████████████████████████   99.80 % 
-Codex-Vscode             21 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+GPT                      10,048 lines        █████████████████████████   99.79 % 
+Codex-Vscode             21 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 6,332 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📚 Verbose Prompter — average 5,556 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
