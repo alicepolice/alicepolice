@@ -35,51 +35,51 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    60 hrs 14 mins      ████████████████████░░░░░   80.92 % 
-Python                   7 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-Markdown                 2 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-JSON                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-CSV                      1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Other                    63 hrs 13 mins      █████████████████████░░░░   82.87 % 
+Python                   6 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Markdown                 3 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+CSV                      1 hr 7 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+TOML                     1 hr 4 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🔥 Editors: 
-Edge                     41 hrs 52 mins      ██████████████░░░░░░░░░░░   56.25 % 
-Agent                    15 hrs 50 mins      █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-Codex Vscode             15 hrs 10 mins      █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-VS Code                  1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Edge                     43 hrs 51 mins      ██████████████░░░░░░░░░░░   57.49 % 
+Codex Vscode             15 hrs 56 mins      █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+Agent                    14 hrs 43 mins      █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+VS Code                  1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 🐱‍💻 Projects: 
-25-txd                   53 hrs 7 mins       ██████████████████░░░░░░░   71.36 % 
-DeSiRe-GS                14 hrs 38 mins      █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-FlClash                  2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-Unknown Project          1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-memories                 56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+25-txd                   53 hrs 57 mins      ██████████████████░░░░░░░   70.72 % 
+DeSiRe-GS                14 hrs 25 mins      █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+FlClash                  2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Unknown Project          2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Magpie                   57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 💻 Operating System: 
-Windows                  41 hrs 52 mins      ██████████████░░░░░░░░░░░   56.25 % 
-Linux                    32 hrs 33 mins      ███████████░░░░░░░░░░░░░░   43.75 % 
+Windows                  43 hrs 51 mins      ██████████████░░░░░░░░░░░   57.49 % 
+Linux                    32 hrs 25 mins      ███████████░░░░░░░░░░░░░░   42.51 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 17 mins (43.39%)
+⏱ AI Coding Time: 32 hrs 11 mins (42.2%)
 
-✍️ 7,770 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 7,722 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 12,106,200 Input Tokens, 1,513,339 Output Tokens
+🔤 11,962,370 Input Tokens, 794,579 Output Tokens
 
-💵 $81.58 Estimated AI Cost This Week
+💵 $80.95 Estimated AI Cost This Week
 
-🧠 103 AI Sessions, 761 AI Prompts
+🧠 54 AI Sessions, 716 AI Prompts
 
-GPT                      7,754 lines         █████████████████████████   99.73 % 
-Codex-Vscode             21 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+GPT                      7,727 lines         █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 5,605 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📚 Verbose Prompter — average 2,041 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
 🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
