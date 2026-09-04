@@ -35,51 +35,51 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    63 hrs 13 mins      █████████████████████░░░░   82.87 % 
-Python                   6 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Markdown                 3 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-CSV                      1 hr 7 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-TOML                     1 hr 4 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Other                    57 hrs 19 mins      █████████████████████░░░░   82.08 % 
+Python                   5 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Markdown                 4 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+TOML                     53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+CSV                      48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 Editors: 
-Edge                     43 hrs 51 mins      ██████████████░░░░░░░░░░░   57.49 % 
-Codex Vscode             15 hrs 56 mins      █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-Agent                    14 hrs 43 mins      █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-VS Code                  1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Edge                     40 hrs 35 mins      ███████████████░░░░░░░░░░   58.12 % 
+Codex Vscode             14 hrs 33 mins      █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Agent                    13 hrs 8 mins       █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+VS Code                  1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 🐱‍💻 Projects: 
-25-txd                   53 hrs 57 mins      ██████████████████░░░░░░░   70.72 % 
-DeSiRe-GS                14 hrs 25 mins      █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-FlClash                  2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-Unknown Project          2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-Magpie                   57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+25-txd                   47 hrs 4 mins       █████████████████░░░░░░░░   67.39 % 
+DeSiRe-GS                14 hrs 46 mins      █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+FlClash                  2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Unknown Project          2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Magpie                   57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 💻 Operating System: 
-Windows                  43 hrs 51 mins      ██████████████░░░░░░░░░░░   57.49 % 
-Linux                    32 hrs 25 mins      ███████████░░░░░░░░░░░░░░   42.51 % 
+Windows                  40 hrs 35 mins      ███████████████░░░░░░░░░░   58.12 % 
+Linux                    29 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   41.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 11 mins (42.2%)
+⏱ AI Coding Time: 29 hrs 13 mins (41.83%)
 
-✍️ 7,722 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 7,430 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 11,962,370 Input Tokens, 794,579 Output Tokens
+🔤 9,450,722 Input Tokens, 732,385 Output Tokens
 
-💵 $80.95 Estimated AI Cost This Week
+💵 $67.20 Estimated AI Cost This Week
 
-🧠 54 AI Sessions, 716 AI Prompts
+🧠 52 AI Sessions, 650 AI Prompts
 
-GPT                      7,727 lines         █████████████████████████   100.00 % 
+GPT                      7,434 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 2,041 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
+📚 Verbose Prompter — average 2,170 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
 🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
