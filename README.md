@@ -35,52 +35,52 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    52 hrs 41 mins      █████████████████████░░░░   82.40 % 
-Python                   4 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Markdown                 4 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-JSON                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-CSV                      45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Other                    50 hrs 24 mins      ████████████████████░░░░░   81.85 % 
+Markdown                 4 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Python                   3 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+JSON                     2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+CSV                      45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🔥 Editors: 
-Edge                     39 hrs 5 mins       ███████████████░░░░░░░░░░   61.13 % 
-Codex Vscode             13 hrs 22 mins      █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
-Agent                    9 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-VS Code                  1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Edge                     37 hrs 39 mins      ███████████████░░░░░░░░░░   61.15 % 
+Codex Vscode             12 hrs 56 mins      █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+Agent                    9 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+VS Code                  1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🐱‍💻 Projects: 
-25-txd                   41 hrs 44 mins      ████████████████░░░░░░░░░   65.28 % 
-DeSiRe-GS                12 hrs 58 mins      █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-KeymouseGo               4 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-Unknown Project          2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Magpie                   57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+25-txd                   36 hrs 22 mins      ███████████████░░░░░░░░░░   59.06 % 
+DeSiRe-GS                11 hrs 40 mins      █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+KeymouseGo               6 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+hll_rcon_tool            2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Unknown Project          2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 💻 Operating System: 
-Windows                  39 hrs 5 mins       ███████████████░░░░░░░░░░   61.13 % 
-Linux                    24 hrs 51 mins      ██████████░░░░░░░░░░░░░░░   38.87 % 
+Windows                  37 hrs 39 mins      ███████████████░░░░░░░░░░   61.15 % 
+Linux                    23 hrs 55 mins      ██████████░░░░░░░░░░░░░░░   38.85 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 34 mins (38.43%)
+⏱ AI Coding Time: 23 hrs 44 mins (38.49%)
 
-✍️ 3,939 lines written by AI, 128 lines written by hand (96.85% AI-written)
+✍️ 3,673 lines written by AI, 128 lines written by hand (96.63% AI-written)
 
-🔤 41,046,063 Input Tokens, 26,892,666 Output Tokens
+🔤 41,034,640 Input Tokens, 26,860,846 Output Tokens
 
-💵 $306.71 Estimated AI Cost This Week
+💵 $304.93 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 525 AI Prompts
+🧠 44 AI Sessions, 488 AI Prompts
 
-GPT                      3,939 lines         █████████████████████████   100.00 % 
+GPT                      3,673 lines         █████████████████████████   100.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.85% of written lines came from AI
-📚 Verbose Prompter — average 201,627 characters per prompt
+🤖 AI-Driven — 96.63% of written lines came from AI
+📚 Verbose Prompter — average 216,828 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 3.15% of changed lines were hand-edited
+🚀 High AI Trust — 3.37% of changed lines were hand-edited
 ```
 
 
