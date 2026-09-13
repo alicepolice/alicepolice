@@ -35,49 +35,49 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    43 hrs 30 mins      █████████████████████░░░░   84.71 % 
-Python                   3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Markdown                 1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-Bash                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-JSON                     1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Other                    44 hrs 10 mins      █████████████████████░░░░   83.07 % 
+Python                   4 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Markdown                 1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Bash                     1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-Edge                     34 hrs 55 mins      █████████████████░░░░░░░░   68.01 % 
-Codex Vscode             11 hrs 30 mins      ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-Agent                    4 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-VS Code                  43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Edge                     35 hrs 35 mins      █████████████████░░░░░░░░   66.93 % 
+Codex Vscode             12 hrs 21 mins      ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+Agent                    4 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+VS Code                  54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🐱‍💻 Projects: 
-25-txd                   18 hrs 49 mins      █████████░░░░░░░░░░░░░░░░   36.67 % 
-KeymouseGo               15 hrs 46 mins      ████████░░░░░░░░░░░░░░░░░   30.70 % 
-DeSiRe-GS                6 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-warcon                   3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-wardogs-go-rcon          2 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+25-txd                   21 hrs 1 min        ██████████░░░░░░░░░░░░░░░   39.53 % 
+KeymouseGo               14 hrs 46 mins      ███████░░░░░░░░░░░░░░░░░░   27.79 % 
+DeSiRe-GS                7 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+wardogs-go-rcon          4 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+warcon                   3 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
 
 💻 Operating System: 
-Windows                  34 hrs 55 mins      █████████████████░░░░░░░░   68.01 % 
-Linux                    16 hrs 25 mins      ████████░░░░░░░░░░░░░░░░░   31.99 % 
+Windows                  35 hrs 35 mins      █████████████████░░░░░░░░   66.93 % 
+Linux                    17 hrs 35 mins      ████████░░░░░░░░░░░░░░░░░   33.07 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 8 mins (31.45%)
+⏱ AI Coding Time: 17 hrs 13 mins (32.4%)
 
-✍️ 2,671 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,997 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 31,009,305 Input Tokens, 1,149,352 Output Tokens
+🔤 43,367,556 Input Tokens, 1,360,359 Output Tokens
 
-💵 $179.34 Estimated AI Cost This Week
+💵 $241.79 Estimated AI Cost This Week
 
-🧠 70 AI Sessions, 346 AI Prompts
+🧠 74 AI Sessions, 359 AI Prompts
 
-GPT                      2,681 lines         █████████████████████████   100.00 % 
+GPT                      3,007 lines         █████████████████████████   100.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,485 characters per prompt
+📚 Verbose Prompter — average 5,356 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
