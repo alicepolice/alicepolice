@@ -35,51 +35,51 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    40 hrs 18 mins      ████████████████████░░░░░   79.55 % 
-Python                   5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Bash                     2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Markdown                 1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Other                    46 hrs 50 mins      █████████████████████░░░░   83.12 % 
+Python                   4 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Markdown                 2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Bash                     2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-Edge                     36 hrs 23 mins      ██████████████████░░░░░░░   71.82 % 
-Codex Vscode             10 hrs 50 mins      █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
-Agent                    2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-VS Code                  1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Edge                     43 hrs 49 mins      ███████████████████░░░░░░   77.77 % 
+Codex Vscode             7 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Agent                    3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+VS Code                  1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 🐱‍💻 Projects: 
-25-txd                   20 hrs 20 mins      ██████████░░░░░░░░░░░░░░░   40.14 % 
-KeymouseGo               11 hrs 12 mins      ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
-DeSiRe-GS                8 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-wardogs-go-rcon          4 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-warcon                   3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+25-txd                   22 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   39.32 % 
+KeymouseGo               9 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+warcon                   5 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+wardogs-go-rcon          5 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+DeSiRe-GS                5 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
 
 💻 Operating System: 
-Windows                  36 hrs 23 mins      ██████████████████░░░░░░░   71.82 % 
-Linux                    14 hrs 16 mins      ███████░░░░░░░░░░░░░░░░░░   28.18 % 
+Windows                  43 hrs 49 mins      ███████████████████░░░░░░   77.77 % 
+Linux                    12 hrs 31 mins      ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 56 mins (27.5%)
+⏱ AI Coding Time: 12 hrs 11 mins (21.62%)
 
-✍️ 3,206 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,698 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 30,967,817 Input Tokens, 3,857,708 Output Tokens
+🔤 27,131,971 Input Tokens, 1,199,600 Output Tokens
 
-💵 $187.14 Estimated AI Cost This Week
+💵 $155.92 Estimated AI Cost This Week
 
-🧠 86 AI Sessions, 237 AI Prompts
+🧠 88 AI Sessions, 208 AI Prompts
 
-GPT                      3,200 lines         █████████████████████████   99.50 % 
-Codex-Vscode             16 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+GPT                      1,692 lines         █████████████████████████   99.06 % 
+Codex-Vscode             16 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 55,079 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 14,165 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
