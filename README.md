@@ -35,52 +35,52 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    67 hrs 45 mins      ██████████████████████░░░   87.38 % 
-Python                   5 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-Markdown                 2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-Bash                     1 hr 22 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Other                    73 hrs 19 mins      █████████████████████░░░░   85.81 % 
+Python                   7 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Markdown                 3 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Bash                     1 hr 10 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-Edge                     67 hrs 23 mins      ██████████████████████░░░   86.89 % 
-Codex Vscode             4 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Agent                    4 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-VS Code                  1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Edge                     71 hrs 9 mins       █████████████████████░░░░   83.27 % 
+Codex Vscode             8 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Agent                    3 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+VS Code                  1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 🐱‍💻 Projects: 
-25-txd                   15 hrs 59 mins      █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-hll-frontend             14 hrs 34 mins      █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-warcon                   12 hrs 15 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-hll-backend              6 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-KeymouseGo               5 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+25-txd                   20 hrs 19 mins      ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+hll-frontend             14 hrs 34 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+warcon                   12 hrs 42 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+hll-backend              6 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+DeSiRe-GS                6 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
 
 💻 Operating System: 
-Windows                  67 hrs 23 mins      ██████████████████████░░░   86.89 % 
-Linux                    10 hrs 10 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Windows                  71 hrs 9 mins       █████████████████████░░░░   83.27 % 
+Linux                    14 hrs 17 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 54 mins (12.77%)
+⏱ AI Coding Time: 13 hrs 53 mins (16.26%)
 
-✍️ 549 lines written by AI, 1 lines written by hand (99.82% AI-written)
+✍️ 4,480 lines written by AI, 2 lines written by hand (99.96% AI-written)
 
-🔤 21,140,415 Input Tokens, 1,080,379 Output Tokens
+🔤 30,131,527 Input Tokens, 962,245 Output Tokens
 
-💵 $133.45 Estimated AI Cost This Week
+💵 $271.37 Estimated AI Cost This Week
 
-🧠 67 AI Sessions, 179 AI Prompts
+🧠 47 AI Sessions, 205 AI Prompts
 
-GPT                      533 lines           ████████████████████████░   97.09 % 
-Codex-Vscode             16 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+GPT                      4,319 lines         ████████████████████████░   96.41 % 
+Codex-Vscode             161 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.82% of written lines came from AI
-📚 Verbose Prompter — average 14,962 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.18% of changed lines were hand-edited
+🤖 AI-Driven — 99.96% of written lines came from AI
+📚 Verbose Prompter — average 5,659 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.07% of changed lines were hand-edited
 ```
 
 
