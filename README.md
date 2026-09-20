@@ -35,52 +35,52 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    73 hrs 19 mins      █████████████████████░░░░   85.81 % 
-Python                   7 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Markdown                 3 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Bash                     1 hr 10 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Other                    75 hrs 40 mins      █████████████████████░░░░   84.28 % 
+Python                   8 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Markdown                 3 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Bash                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+HTML                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔥 Editors: 
-Edge                     71 hrs 9 mins       █████████████████████░░░░   83.27 % 
-Codex Vscode             8 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-Agent                    3 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-VS Code                  1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Edge                     71 hrs 1 min        ████████████████████░░░░░   79.10 % 
+Codex Vscode             11 hrs 35 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Agent                    5 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+VS Code                  2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🐱‍💻 Projects: 
-25-txd                   20 hrs 19 mins      ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
-hll-frontend             14 hrs 34 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-warcon                   12 hrs 42 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-hll-backend              6 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-DeSiRe-GS                6 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+25-txd                   21 hrs 57 mins      ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+hll-frontend             14 hrs 35 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+warcon                   13 hrs 43 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+DeSiRe-GS                11 hrs 37 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+hll-backend              6 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 
 💻 Operating System: 
-Windows                  71 hrs 9 mins       █████████████████████░░░░   83.27 % 
-Linux                    14 hrs 17 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Windows                  71 hrs 1 min        ████████████████████░░░░░   79.10 % 
+Linux                    18 hrs 46 mins      █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 53 mins (16.26%)
+⏱ AI Coding Time: 18 hrs 28 mins (20.57%)
 
-✍️ 4,480 lines written by AI, 2 lines written by hand (99.96% AI-written)
+✍️ 9,841 lines written by AI, 2 lines written by hand (99.98% AI-written)
 
-🔤 30,131,527 Input Tokens, 962,245 Output Tokens
+🔤 45,565,368 Input Tokens, 2,052,032 Output Tokens
 
-💵 $271.37 Estimated AI Cost This Week
+💵 $629.61 Estimated AI Cost This Week
 
-🧠 47 AI Sessions, 205 AI Prompts
+🧠 66 AI Sessions, 295 AI Prompts
 
-GPT                      4,319 lines         ████████████████████████░   96.41 % 
-Codex-Vscode             161 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+GPT                      9,694 lines         █████████████████████████   98.37 % 
+Codex-Vscode             161 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 5,659 characters per prompt
+🤖 AI-Driven — 99.98% of written lines came from AI
+📚 Verbose Prompter — average 8,413 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.07% of changed lines were hand-edited
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 
