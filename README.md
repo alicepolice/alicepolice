@@ -27,7 +27,7 @@
 </a> -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-401%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-403%20hrs%2033%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -35,51 +35,51 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    50 hrs 44 mins      ████████████████████░░░░░   81.26 % 
-Markdown                 6 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Python                   5 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Other                    59 hrs 26 mins      █████████████████████░░░░   82.15 % 
+Python                   6 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Markdown                 6 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Edge                     45 hrs 4 mins       ██████████████████░░░░░░░   72.18 % 
-Codex Vscode             13 hrs 38 mins      █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-Agent                    2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-VS Code                  1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Edge                     53 hrs 26 mins      ██████████████████░░░░░░░   73.87 % 
+Codex Vscode             15 hrs 42 mins      █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
+Agent                    1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+VS Code                  1 hr 25 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 🐱‍💻 Projects: 
-25-txd                   32 hrs 52 mins      █████████████░░░░░░░░░░░░   52.66 % 
-DeSiRe-GS                18 hrs 58 mins      ████████░░░░░░░░░░░░░░░░░   30.38 % 
-dbx                      6 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-DEIM-MOD-v2              1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-Unknown Project          1 hr 8 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+25-txd                   36 hrs 35 mins      █████████████░░░░░░░░░░░░   50.58 % 
+DeSiRe-GS                19 hrs 34 mins      ███████░░░░░░░░░░░░░░░░░░   27.06 % 
+dbx                      6 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+wardogs-manager          2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+warcon                   2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 
 💻 Operating System: 
-Windows                  45 hrs 4 mins       ██████████████████░░░░░░░   72.18 % 
-Linux                    17 hrs 22 mins      ███████░░░░░░░░░░░░░░░░░░   27.82 % 
+Windows                  53 hrs 26 mins      ██████████████████░░░░░░░   73.87 % 
+Linux                    18 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   26.13 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 17 mins (27.7%)
+⏱ AI Coding Time: 18 hrs 50 mins (26.03%)
 
-✍️ 14,483 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 16,470 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 96,372,945 Input Tokens, 6,673,967 Output Tokens
+🔤 97,909,277 Input Tokens, 6,085,231 Output Tokens
 
-💵 $2105.04 Estimated AI Cost This Week
+💵 $2141.15 Estimated AI Cost This Week
 
-🧠 74 AI Sessions, 189 AI Prompts
+🧠 28 AI Sessions, 158 AI Prompts
 
-GPT                      14,144 lines        ████████████████████████░   97.23 % 
-Codex-Vscode             403 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+GPT                      16,131 lines        ████████████████████████░   97.56 % 
+Codex-Vscode             403 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 15,461 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📄 Detailed Prompter — average 789 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
