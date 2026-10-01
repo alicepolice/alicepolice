@@ -27,7 +27,7 @@
 </a> -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-403%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-405%20hrs%2014%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -35,50 +35,49 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    59 hrs 26 mins      █████████████████████░░░░   82.15 % 
-Python                   6 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Markdown                 6 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Other                    61 hrs 4 mins       █████████████████████░░░░   82.85 % 
+Python                   7 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Markdown                 5 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
 Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Edge                     53 hrs 26 mins      ██████████████████░░░░░░░   73.87 % 
-Codex Vscode             15 hrs 42 mins      █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-Agent                    1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-VS Code                  1 hr 25 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Edge                     53 hrs 7 mins       ██████████████████░░░░░░░   72.07 % 
+Codex Vscode             17 hrs 22 mins      ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+Agent                    1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+VS Code                  1 hr 25 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 🐱‍💻 Projects: 
-25-txd                   36 hrs 35 mins      █████████████░░░░░░░░░░░░   50.58 % 
-DeSiRe-GS                19 hrs 34 mins      ███████░░░░░░░░░░░░░░░░░░   27.06 % 
-dbx                      6 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-wardogs-manager          2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-warcon                   2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+25-txd                   42 hrs 39 mins      ██████████████░░░░░░░░░░░   57.87 % 
+DeSiRe-GS                20 hrs 53 mins      ███████░░░░░░░░░░░░░░░░░░   28.35 % 
+dbx                      3 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+wardogs-manager          2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+warcon                   2 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 💻 Operating System: 
-Windows                  53 hrs 26 mins      ██████████████████░░░░░░░   73.87 % 
-Linux                    18 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   26.13 % 
+Windows                  53 hrs 7 mins       ██████████████████░░░░░░░   72.07 % 
+Linux                    20 hrs 35 mins      ███████░░░░░░░░░░░░░░░░░░   27.93 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 50 mins (26.03%)
+⏱ AI Coding Time: 20 hrs 30 mins (27.83%)
 
-✍️ 16,470 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 17,186 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 97,909,277 Input Tokens, 6,085,231 Output Tokens
+🔤 98,592,649 Input Tokens, 6,141,988 Output Tokens
 
-💵 $2141.15 Estimated AI Cost This Week
+💵 $2162.02 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 158 AI Prompts
+🧠 28 AI Sessions, 164 AI Prompts
 
-GPT                      16,131 lines        ████████████████████████░   97.56 % 
-Codex-Vscode             403 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+GPT                      16,848 lines        ████████████████████████░   97.66 % 
+Codex-Vscode             403 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 789 characters per prompt
+📄 Detailed Prompter — average 732 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
