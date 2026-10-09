@@ -35,51 +35,51 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    55 hrs 54 mins      ██████████████████████░░░   88.06 % 
-Python                   6 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Markdown                 54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Other                    57 hrs 28 mins      █████████████████████░░░░   83.99 % 
+Python                   8 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Markdown                 1 hr 15 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+JSON                     46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+CSV                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-Edge                     51 hrs 22 mins      ████████████████████░░░░░   80.92 % 
-Codex Vscode             10 hrs 47 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-VS Code                  1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Edge                     51 hrs 43 mins      ███████████████████░░░░░░   75.59 % 
+Codex Vscode             15 hrs 8 mins       ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+VS Code                  1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-25-txd                   34 hrs 12 mins      █████████████░░░░░░░░░░░░   53.89 % 
-DeSiRe-GS                15 hrs 3 mins       ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-wardogs-BanNet           7 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-peakminer                6 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-quantus-apps             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+25-txd                   30 hrs 57 mins      ███████████░░░░░░░░░░░░░░   45.24 % 
+DeSiRe-GS                18 hrs 14 mins      ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+wardogs-BanNet           8 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+peakminer                7 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+joint-v2                 57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 💻 Operating System: 
-Windows                  51 hrs 22 mins      ████████████████████░░░░░   80.92 % 
-Linux                    12 hrs 6 mins       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Windows                  51 hrs 50 mins      ███████████████████░░░░░░   75.75 % 
+Linux                    16 hrs 35 mins      ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 3 mins (18.99%)
+⏱ AI Coding Time: 16 hrs 32 mins (24.17%)
 
-✍️ 2,443 lines written by AI, 1 lines written by hand (99.96% AI-written)
+✍️ 4,332 lines written by AI, 1 lines written by hand (99.98% AI-written)
 
-🔤 18,413,096 Input Tokens, 529,961 Output Tokens
+🔤 30,144,397 Input Tokens, 940,323 Output Tokens
 
-💵 $134.72 Estimated AI Cost This Week
+💵 $313.22 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 71 AI Prompts
+🧠 16 AI Sessions, 87 AI Prompts
 
-GPT                      2,359 lines         ████████████████████████░   96.48 % 
-Codex-Vscode             86 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+GPT                      4,241 lines         ████████████████████████░   97.63 % 
+Codex-Vscode             103 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📝 Concise Prompter — average 49 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🤖 AI-Driven — 99.98% of written lines came from AI
+📝 Concise Prompter — average 110 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 
