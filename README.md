@@ -35,53 +35,53 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    71 hrs 58 mins      ████████████████████░░░░░   78.86 % 
-Python                   9 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Markdown                 6 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-JSON                     1 hr 3 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-HTML                     52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Other                    73 hrs 35 mins      ████████████████████░░░░░   79.81 % 
+Python                   9 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Markdown                 6 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+HTML                     1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+JSON                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🔥 Editors: 
-Edge                     64 hrs 57 mins      ██████████████████░░░░░░░   71.18 % 
-Codex Vscode             12 hrs 2 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Claude Code              9 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-VS Code                  4 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Agent                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Edge                     62 hrs 53 mins      █████████████████░░░░░░░░   68.20 % 
+Codex Vscode             14 hrs 25 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Claude Code              9 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+VS Code                  5 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Agent                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🐱‍💻 Projects: 
-DeSiRe-GS                29 hrs 9 mins       ████████░░░░░░░░░░░░░░░░░   31.95 % 
-25-txd                   19 hrs 26 mins      █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
-phase_e_v5b_gather_20261010 hrs 46 mins      ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-DEIM-MOD-v2              6 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-root                     6 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+DeSiRe-GS                26 hrs 36 mins      ███████░░░░░░░░░░░░░░░░░░   28.86 % 
+25-txd                   26 hrs 34 mins      ███████░░░░░░░░░░░░░░░░░░   28.82 % 
+phase_e_v5b_gather_20261010 hrs 46 mins      ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+DEIM-MOD-v2              6 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+root                     6 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 
 💻 Operating System: 
-Windows                  64 hrs 57 mins      ██████████████████░░░░░░░   71.18 % 
-Linux                    26 hrs 17 mins      ███████░░░░░░░░░░░░░░░░░░   28.82 % 
+Windows                  62 hrs 53 mins      █████████████████░░░░░░░░   68.20 % 
+Linux                    29 hrs 19 mins      ████████░░░░░░░░░░░░░░░░░   31.80 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 47 mins (27.16%)
+⏱ AI Coding Time: 27 hrs 39 mins (30.0%)
 
-✍️ 11,774 lines written by AI, 21 lines written by hand (99.82% AI-written)
+✍️ 12,059 lines written by AI, 21 lines written by hand (99.83% AI-written)
 
-🔤 100,983,875 Input Tokens, 2,300,661 Output Tokens
+🔤 102,590,874 Input Tokens, 2,463,390 Output Tokens
 
-💵 $1054.26 Estimated AI Cost This Week
+💵 $1100.48 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 260 AI Prompts
+🧠 44 AI Sessions, 268 AI Prompts
 
-GPT                      6,177 lines         █████████████░░░░░░░░░░░░   52.21 % 
-Opus                     3,340 lines         ███████░░░░░░░░░░░░░░░░░░   28.23 % 
-Claude                   2,313 lines         █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+GPT                      6,461 lines         █████████████░░░░░░░░░░░░   53.33 % 
+Opus                     3,340 lines         ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+Claude                   2,313 lines         █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.82% of written lines came from AI
+🤖 AI-Driven — 99.83% of written lines came from AI
 📝 Concise Prompter — average 365 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.36% of changed lines were hand-edited
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.35% of changed lines were hand-edited
 ```
 
 
